@@ -1,0 +1,165 @@
+.container{
+	margin-top: 90px;
+  width: 800px;
+position:absolute;
+margin-left:90px;
+
+
+}
+.ticTacToeBackground{
+
+}
+.x1, .x2, .x3, .x4, .x5, .x6, .x7, .x8, .x9 {
+position: absolute;
+width: 120px;
+height: 129px;
+}
+
+.x1 {
+	top:10px;
+	left:306px;
+}
+.x2{
+	top:10px;
+	left:480px;
+}
+.x3{
+	top:10px;
+	left:660px;
+}
+.x4{
+	top:177px;
+	left:306px;
+}
+.x5{
+	top:177px;
+	left: 480px;
+}
+.x6{
+	top:177px;
+	left:660px;
+}
+.x7{
+	top: 350px;
+	left:306px;
+}
+.x8{
+	top: 350px;
+	left: 480px;
+}
+.x9{
+	top: 350px;
+	left:660px;
+}
+.os1, .os2, .os3, .os4, .os5, .os6, .os7, .os8, .os9 {
+position: absolute;
+width: 120px;
+height: 129px;
+}
+.os1 {
+	top:10px;
+	left:306px;
+}
+.os2{
+	top:10px;
+	left:480px;
+}
+.os3{
+	top:10px;
+	left:660px;
+}
+.os4{
+	top:177px;
+	left:306px;
+}
+.os5{
+	top:177px;
+	left: 480px;
+}
+.os6{
+	top:177px;
+	left:660px;
+}
+.os7{
+	top: 350px;
+	left:306px;
+}
+.os8{
+	top: 350px;
+	left: 480px;
+}
+.os9{
+	top: 350px;
+	left:660px;
+}
+.blank1, .blank2, .blank3, .blank4, .blank5, .blank6, .blank7, .blank8, .blank9 {
+  position: absolute;
+  width: 120px;
+  height: 129px;
+  opacity: 0;
+  display: inherit;
+}
+.blank1 {
+	top:10px;
+	left:306px;
+}
+.blank2{
+	top:10px;
+	left:480px;
+}
+.blank3{
+	top:10px;
+	left:660px;
+}
+.blank4{
+	top:177px;
+	left:306px;
+}
+.blank5{
+	top:177px;
+	left: 480px;
+}
+.blank6{
+	top:177px;
+	left:660px;
+}
+.blank7{
+	top: 350px;
+	left:306px;
+}
+.blank8{
+	top: 350px;
+	left: 480px;
+}
+.blank9{
+	top: 350px;
+	left:660px;
+}
+
+.tttBackground {
+  width: 500px;
+  height: 490px;
+  border-style: solid ;
+  border-color: grey;
+  position:absolute;
+  margin-left:290px;
+
+}
+body{
+	background: aliceblue;
+}
+h1{
+	position:absolute;
+	margin-left:550px;
+}
+
+.resetGame{
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 100px;
+}
+aside{
+  position: absolute;
+  margin-left: 890px;
+  margin-top: 120px;
+}
